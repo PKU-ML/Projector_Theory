@@ -30,8 +30,14 @@ In our paper, we provide three regularization methods: training regularization (
 
 
 ## Citing This Work
+If you find the work useful, please cite the accompanying paper:
 ```
-to be filled
+@article{ouyang2025projection,
+  title={Projection Head is Secretly an Information Bottleneck},
+  author={Ouyang, Zhuo and Hu, Kaiwen and Zhang, Qi and Wang, Yifei and Wang, Yisen},
+  journal={arXiv preprint arXiv:2503.00507},
+  year={2025}
+}
 ```
 
 ## Acknowledgement
